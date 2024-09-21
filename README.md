@@ -18,6 +18,7 @@ Technically you don't need Obsidian and you can just read it on GitHub but the f
 - Right click your new file
 - Select `Show in System Explorer`
 - Drop all of the files into that folder
+
 **Note**: This method will not keep the repository linked. You may need to return to this repository to verify you are up to date. I'm not going to teach you how to use Git, sorry
 ## For those who are familiar with GitHub
 I am confident you can figure this out and keep the repo linked so you can fork, make new branches, and contribute if you like
