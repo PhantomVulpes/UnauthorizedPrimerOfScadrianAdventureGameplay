@@ -21,7 +21,7 @@ Advancements are awarded to a character by the GM for various reasons
 A GM should expect to reward 1-3 Advancements for each character during a session
 Max of 20 Advancements
 # Spending Advancements
-Advancements may only be spent during a [[Breathers|Long Breather]]
+Advancements may only be spent during a [[Time During the Game#Long Breathers|Long Breather]]
 A character may only make one improvement at a time, no matter how long the Breather lasts
 
 | Improvement                  | Cost   | Description                                                                                      |

@@ -56,7 +56,6 @@ A player's result meeting or not meeting the challenge rating does not mean pass
 | -4      | Horrible      |
 | -5      | Disasterous   |
 | -6      | Catastrphic   |
-
 ## Complications
 ![[Complications]]
 ## Nudges
