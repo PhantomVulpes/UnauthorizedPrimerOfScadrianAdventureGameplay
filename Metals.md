@@ -42,7 +42,7 @@ Feruchemists who tap huge amounts of a sense can perform incredible feats with i
 Tin spikes store human senses. Each spike can hold a single sense, and greatly improves that sense in a character who receives it. Unfortunately, as with any spike that steals an inherent human ability, a Tin spike distorts the recipient, causing physical deformations and possibly madness or memory loss.
 Tin spikes are employed as one of the four Blessings available to kandra. Unlike their use in humans, the Tin Blessing (of Awareness) enhances all of a kandra’s senses in a manner similar to an Allomancer burning the metal.
 ### Spikes
-Costs 4 [[Advancements#Spending Advancements|Advancements]]
+Costs 4 [[Advancements#Spending Advancements|Advancements]].
 A Tin spike adds 2 dice with Wits rolls involving one sense (chosen when the spike is used to steal it). However, both your Charm and Spirit scores drop by 1 for each Tin spike you receive (rather than just your Spirit).
 ### Blessings
 The Blessing of Awareness adds 2 dice with rolls involving all your senses.  dditionally, you’re considered to have 2 additional Action Dice when determining the order of actions in a Conflict (e.g. when you gain 4 ­Action Dice, the order in which you act is determined as if you have 6 Action Dice instead).
