@@ -47,9 +47,7 @@ A Tin spike adds 2 dice with Wits rolls involving one sense (chosen when the spi
 ### Blessings
 The Blessing of Awareness adds 2 dice with rolls involving all your senses.  dditionally, you’re considered to have 2 additional Action Dice when determining the order of actions in a Conflict (e.g. when you gain 4 ­Action Dice, the order in which you act is determined as if you have 6 Action Dice instead).
 # Pewter
-Pewter is an alloy mostly composed of tin and copper. It’s common, inex-
-pensive, and widely available. For each of the magical traditions, Pewter is the
-embodiment of strength and raw physical power.
+Pewter is an alloy mostly composed of tin and copper. It’s common, inexpensive, and widely available. For each of the magical traditions, Pewter is theembodiment of strength and raw physical power.
 ## Allomancy
 A Misting who can burn Pewter is called a Thug or Pewterarm.
 Burning Pewter enhances the Allomancer’s body and physical capabilities. While burning Pewter, a character becomes faster and stronger, with greater manual dexterity, agility, and endurance. All else being equal, a trained warrior burning Pewter is easily a match for half a dozen ordinary human warriors.

@@ -18,6 +18,7 @@ A dice pool is between **2 and 10** dice
 - If an action requires an item, i.e. lock picking, then the action is already being supported by that item. It does not provide any bonuses
 - If a character lacks an item that would aid dramatically, but is not necessary, the pool may shrink
 4. Apply [[Circumstances]]
+- A character with 0 in any Resilience slot loses 2 dice on the relevant stat rolls
 ## Pools Above Ten Dice
 Gain 1 free [[Nudges|Nudge]] for each die above 10
 These Nudges may only be used on success

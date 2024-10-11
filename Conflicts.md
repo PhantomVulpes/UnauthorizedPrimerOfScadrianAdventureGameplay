@@ -3,8 +3,6 @@ Page 195 for Physical Conflicts or Combat
 Page 211 for Social Conflicts
 Page 221 for Mental Conflicts
 # For the GM
-Actions don't have to be attacks
-They may be a Challenge (uncontested), or a Contest
 You may assign a Difficulty if there's a valid reason the action may not succeed
 Dice during a round are single use
 A character may only **react** or **defend** once against an action, regardless of how many dice they may have
@@ -36,8 +34,7 @@ Dice for this action are counted the same as any other action outside of combat
 - _Example:_ Checking their weakness requires Wits, so 5 dice. I am an assassin, so +1 die to the roll
 These dice become **Action Dice**. Unlike normal rolls, you may have more than 10.
 - No more than 10 can be rolled at once.
-A character with 0 in any HP slot loses 2 dice on the relevant stat rolls
-- [] #TODO: Put this with the stat rolling page too, it's very relevant there
+A character with 0 in any HP slot loses 2 dice on the relevant stat rolls, as mentioned in [[Rolling the Dice]]
 Movement reduces the character's **Action Dice** by 1, counting as a negative **Circumstance**
 ### Defending
 A character may choose to defend against incoming attacks. Dice are determined in the same manor as Action Dice, but are instead **Defense Dice**.
