@@ -33,7 +33,6 @@ Roll 2 dice
 | 3                      | Difficult         |
 | 4                      | Very Hard         |
 | 5                      | Nearly Impossible |
-
 # Actually Rolling the Pool
 Numbers 1-5 are read as normal
 6s become [[Nudges]]
