@@ -90,8 +90,24 @@ See [[Rolling the Dice#Dice Pools|Rolling the Dice]] for how these stats are use
 You may want to play the most powerful magic users in the game, but there are costs to such powers. A Mistborn is versatile, but will have a harder time being as powerful as a Misting. Those with no powers have had a life of struggle to get where they are today. Powers are not everything.
 These powers can influence your race
 You have **weak** powers if you are a mortal with no powers. You gain two additional Traits.
-You have **average** powers if you are a **Misting** with only one Allomantic power or you are a shape-shifting **kandra**.
+You have **average** powers if you are a **Misting** with only one Allomantic power or you are a shape-shifting **kandra** with **mimicry**.
 You have **strong** powers if you are a **Mistborn** with all Allomantic powers or you are a **Keeper/Feruchemist** with Feruchemical powers.
+#### Misting
+Use of any single Allomantic [[Metals|metal]] of your choice, provided the context of your game's world
+One Stunt of your choice with that metal
+#### Mistborn
+Allomancy rating of 4 in all metals
+#### Keeper/Feruchemist
+Feruchemy rating of 3 in all metals
+May use all Feruchemical metalminds
+#### Kandra/Mimicry
+Mimicry rating of 5
+One Hemalurgic blessing from the following options:
+- Awareness
+- Potency
+- Presence
+- Stability
+See [[Metals]] for information on various metals and their Hemalurgic blessing abilities
 ### 7. How are your [[The Character Sheet#Attributes|attributes]]? Are you especially fit, smart, or charismatic?
 This is for your Physique, Charm, and Wits
 Each level has an amount of points you can spend between all Attributes

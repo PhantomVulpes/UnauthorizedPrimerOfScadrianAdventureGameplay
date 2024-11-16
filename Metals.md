@@ -47,7 +47,7 @@ A Tin spike adds 2 dice with Wits rolls involving one sense (chosen when the spi
 ### Blessings
 The Blessing of Awareness adds 2 dice with rolls involving all your senses.  dditionally, you’re considered to have 2 additional Action Dice when determining the order of actions in a Conflict (e.g. when you gain 4 ­Action Dice, the order in which you act is determined as if you have 6 Action Dice instead).
 # Pewter
-Pewter is an alloy mostly composed of tin and copper. It’s common, inexpensive, and widely available. For each of the magical traditions, Pewter is theembodiment of strength and raw physical power.
+Pewter is an alloy mostly composed of tin and copper. It’s common, inexpensive, and widely available. For each of the magical traditions, Pewter is the embodiment of strength and raw physical power.
 ## Allomancy
 A Misting who can burn Pewter is called a Thug or Pewterarm.
 Burning Pewter enhances the Allomancer’s body and physical capabilities. While burning Pewter, a character becomes faster and stronger, with greater manual dexterity, agility, and endurance. All else being equal, a trained warrior burning Pewter is easily a match for half a dozen ordinary human warriors.
@@ -859,6 +859,6 @@ If a Misting already able to burn a Larasium alloy’s other metal were to consu
 In the unlikely event that a Misting able to burn a different metal were to consume and burn a Larasium alloy, it would have the same effect as on a character with no Powers: the Misting’s current metal would be replaced with the alloy metal, at a rating of 6 and with two Stunts. Thus, if a Steel Misting found and burned an alloy of Larasium and Pewter, he or she would lose the ability to burn Steel and gain Pewter 6 with two Pewter Stunts.
 A character may only benefit from consuming and burning Larasium or a Larasium alloy once; after that it has no effect.
 ## Feruchemy
-Malatium has no known Feruchemical applications.
+Larasium has no known Feruchemical applications.
 ## Hemalurgy
-Malatium has no known Hemalurgical applications.
+Larasium has no known Hemalurgical applications.
