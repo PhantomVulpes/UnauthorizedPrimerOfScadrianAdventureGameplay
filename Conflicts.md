@@ -35,7 +35,7 @@ Dice for this action are counted the same as any other action outside of combat
 These dice become **Action Dice**. Unlike normal rolls, you may have more than 10.
 - No more than 10 can be rolled at once.
 A character with 0 in any HP slot loses 2 dice on the relevant stat rolls, as mentioned in [[Rolling the Dice]]
-Movement reduces the character's **Action Dice** by 1, counting as a negative **Circumstance**
+Movement reduces the character's **Action Dice** by 1, counting as a negative **[[Circumstances|Circumstance]]**
 ### Defending
 A character may choose to defend against incoming attacks. Dice are determined in the same manor as Action Dice, but are instead **Defense Dice**.
 Action Dice can be used as Defense Dice.
@@ -45,7 +45,7 @@ Character instead gains **Defense Dice** if attacked
 The gained Defense Dice is determined by the attack, but no extra detail can be provided.
 - Traits are allowed, but the character is preoccupied, so grabbing a shield or bracing behind cover can't be done
 # Reactions
-A reaction is performed _in response_ to another event, action, or circumstance.
+A reaction is performed _in response_ to another event, action, or [[Circumstances|circumstance]].
 - If one action throws coins onto the ground, a Lurcher may pull the coins to them.
 A character may either react to or defend against an action **but they may not do both**.
 Dice for a reaction are specifically for that reaction and are discarded upon resolution.

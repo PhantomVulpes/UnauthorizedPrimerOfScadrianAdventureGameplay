@@ -464,7 +464,7 @@ For each charge you tap, your body temperature rises approximately 5 degrees Fah
 A Feruchemist who taps huge amounts of warmth radiates heat like a furnace, melting nearby snow and ice, and even boiling water. For every 10 charges of warmth you tap, everyone within 10 paces (Close Range) suffers 1 less damage from ice and cold. Additionally, attacks you make against living creatures inflict +1 damage per 20 charges tapped, so long as you attack with your bare hands (or another exposed part of your body) and you can reach an exposed patch of your target’s skin.
 ## Hemalurgy
 Depending on where a Brass spike is driven in, it steals, stores, and transfers a single Feruchemical Power derived from any one of the four Mental Metals (e.g. the ability to store or tap memories, wakefulness, mental speed, or warmth). Each spike may store only one Power.
-### Spike\
+### Spike
 Costs 2 x Feruchemy rating [[Advancements]]
 A Brass spike grants you a single Feruchemical Power — Copper, Bronze, Zinc, or Brass — with a rating equal to that of the spike. Each spike reduces your Spirit by 1, as normal.
 # Aluminum
