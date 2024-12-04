@@ -199,17 +199,17 @@ Nobles have a given name and a family name
 Disowned nobles typically lose the right to use their family name
 #### Male
 
-| Ashweather | Barklaren                                           | Belmark   | Blarran  |
-| ---------- | --------------------------------------------------- | --------- | -------- |
-| Bornham    | Celler                                              | Damworth  | Derlem   |
-| Dorran     | Eckham                                              | Enfram    | Falcom   |
-| Gloradel   | Gloradel (yes the book says Gloradel twice idk man) | Hyrum     | Jastes   |
-| Joreau     | Ladrian (weird, in the series this a last name...)  | Lemmelier | Louik    |
-| Milen      | Molsier                                             | Neuseu    | Orreleum |
-| Pellikreau | Postwick                                            | Purnow    | Ralston  |
-| Rene       | Roussaw                                             | Samden    | Serneau  |
-| Sorndeham  | Straff                                              | Stroham   | Tanniker |
-| Tyden      | Yandrean                                            | Yomen     | Zane     |
+| Ashweather | Barklaren                                                      | Belmark   | Blarran  |
+| ---------- | -------------------------------------------------------------- | --------- | -------- |
+| Bornham    | Celler                                                         | Damworth  | Derlem   |
+| Dorran     | Eckham                                                         | Enfram    | Falcom   |
+| Gloradel   | Gloradel (yes the book says Gloradel twice, I'll fix it later) | Hyrum     | Jastes   |
+| Joreau     | Ladrian (weird, in the series this a last name...)             | Lemmelier | Louik    |
+| Milen      | Molsier                                                        | Neuseu    | Orreleum |
+| Pellikreau | Postwick                                                       | Purnow    | Ralston  |
+| Rene       | Roussaw                                                        | Samden    | Serneau  |
+| Sorndeham  | Straff                                                         | Stroham   | Tanniker |
+| Tyden      | Yandrean                                                       | Yomen     | Zane     |
 #### Female
 
 | Adassey  | Adelemay  | Allrianne | Amyse     |
