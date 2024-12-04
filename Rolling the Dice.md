@@ -1,10 +1,11 @@
 # Types of Rolls
 ## Challenges
 When a tries to do something without opposition from another character
+Challenges are the most common roll
+**Editor's Note**: While Contests and Conflicts both have their own page, Challenges doesn't really need it. All rolls that apply to Challenges also apply to those. This page is a sort of psuedo Challenges page
 ## Contests
 When two or more characters compete
-- A chase
-- Bribing a noble
+See [[Contests]] for more information
 ## Conflicts
 When one character tries to harm another in some way
 See [[Conflicts]]

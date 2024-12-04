@@ -100,6 +100,7 @@ Allomancy rating of 4 in all metals
 #### Keeper/Feruchemist
 Feruchemy rating of 3 in all metals
 May use all Feruchemical metalminds
+**Note**: A Keeper is a particular group, dedicated to preserving the art. All Keepers are Feruchemists but not all Feruchemists are Keepers
 #### Kandra/Mimicry
 Mimicry rating of 5
 One Hemalurgic blessing from the following options:
@@ -163,12 +164,14 @@ Depending on your powers, your race will be influenced as described
 Human, typically intellectual and proper.
 A noble may be a **Misting**, **Mistborn**, or have **no powers**
 ### Skaa
-Human, physically hardy. Difficult to effectively impossible to tell the difference between a noble and skaa.
+Human, physically hardy. Difficult to effectively impossible to tell the difference between a noble and skaa. Skaa tend to be slightly shorter and very few have fair hair
 Full-blooded skaa have **no powers**.
 Half-Noble skaa may be a **Misting** or a **Mistborn**.
 ### Terris
 Human, collected and humble
+Very tall, averaging between six to six and a half feet tall in males and five and a half to six feet tall in females
 A Terris may be a **Feruchemist** or have **no powers**.
+Tend to be educated, many being taught for a year or two before being placed in their roles by Obligators
 ### Kandra
 Kandra are fucked up and weird
 If you are a kandra, you have **mimicry**.
