@@ -1,3 +1,4 @@
+# Basic Rules
 Influential organizations that the player's can utilize for support
 Players do not have to join or contribute to a Network to utilize it
 Represents a player character's clearest and most valuable relationship to a group
