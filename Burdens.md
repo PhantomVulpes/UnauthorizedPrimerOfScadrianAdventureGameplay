@@ -21,7 +21,6 @@ Each level of severity has a number of dice that get added to a roll when invoke
 **Willpower**: Severe paranoia or obsession
 # Recovering from a Burden
 **Serious** and **Grave** burdens can only be recovered during a [[Time During the Game#Long Breathers|Long Breather]].
-- [] #TODO:Add this to the [[Time During the Game|Breathers]] file as well
 Only a single Burden can be recovered during a Long Breather
 A burden may require longer to recover from depending on its severity.
 - _Example:_ A pierced forearm may take four weeks to fully heal, but this Long Breather is only for two weeks. The player may choose to spend the Long Breather to recover, but it will need more time

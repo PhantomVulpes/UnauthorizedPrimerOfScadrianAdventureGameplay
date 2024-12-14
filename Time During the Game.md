@@ -18,3 +18,5 @@ Can last between a few days to several months
 During this time, a character may [[Advancements#Spending Advancements|spend an Advancement]]
 ## Recovering with a Breather
 ![[Damage#Breathers]]
+
+![[Burdens#Recovering from a Burden]]
