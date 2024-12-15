@@ -7,10 +7,10 @@ The modules will also be included, though they may take longer to add to the pri
 [[Mistborn Campaign Notes/Rules/Supplemental Materials/Skaa - Tin & Ash/Networks|Networks]] - New networks have been added for skaa characters, using the same rules as in [[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Introduction|Wrought of Copper]]
 [[Mistborn Campaign Notes/Rules/Supplemental Materials/Skaa - Tin & Ash/Stunts|Stunts]] - Stunts have been expanded to include skaa characters who are not Allomancers
 Types of Skaa - Various different backgrounds have been added for skaa character-creation, allowing for different types of Stunts
-[[Equipment#Poisons|Poisons]] - Fast acting poisons that inflict serious burdens instantly
+[[Mistborn Campaign Notes/Rules/Supplemental Materials/Skaa - Tin & Ash/Equipment#Poisons|Poisons]] - Fast acting poisons that inflict serious burdens instantly
 # Extra Content
 **Editor's Note**: Primarily, I am focused on the new mechanics added for each book before I come back and add the added content below
-[[Equipment]]
+[[Mistborn Campaign Notes/Rules/Supplemental Materials/Skaa - Tin & Ash/Equipment|Equipment]]
 Notable People
 Secrets
 Guidance on Building a Terris Hero

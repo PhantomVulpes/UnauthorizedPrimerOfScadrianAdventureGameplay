@@ -8,7 +8,7 @@ All Standings recovers 1 per day
 - In a [[Time During the Game#Long Breathers|Long Breather]], all Standings are fully recovered
 # Resources
 Made when spending money
-Used to purchase [[Game Items]]
+Used to purchase [[Mistborn Campaign Notes/Rules/Equipment|Equipment]]
 ## Services
 
 | Difficulty | Scope or Rarity / Examples                                                                                 |

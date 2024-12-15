@@ -66,4 +66,4 @@ A traumatic event that haunts the character to this day
 # Props
 Essential parts of the character.
 Props, unlike normal items, are regained after a [[Time During the Game#Long Breathers|Long Breather]] unless context demands otherwise (such as loaning a tool to another character)
-See [[Game Items]] for available props and [[Game Items#Props|the Props section]] for how to buy them
+See [[Mistborn Campaign Notes/Rules/Equipment|Equipment]] for available props and [[Mistborn Campaign Notes/Rules/Equipment#Props|the Props section]] for how to buy them

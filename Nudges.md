@@ -1,6 +1,5 @@
 Page 154
 Player characters and significant non-player characters may use Nudges
-**Editor's Note**: I don't see anything in this section so far about saving Nudges for later. We may have gotten that from somewhere else, this book has ADHD, but as it stands, Nudges _can not be saved_.
 - **Editor's Note**: In our game, we have opted to allow for saving up to 10 nudges. Once a player has 10 nudges, they gain an [[Advancements|Advancement]] and lose all saved nudges. They cannot be used for anything other than an advancement
 # Augmenting Success
 A player may nudge that success once for every 6 that was rolled to reach the outcome
