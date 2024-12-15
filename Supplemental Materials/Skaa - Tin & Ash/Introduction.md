@@ -13,4 +13,4 @@ Types of Skaa - Various different backgrounds have been added for skaa character
 [[Mistborn Campaign Notes/Rules/Supplemental Materials/Skaa - Tin & Ash/Equipment|Equipment]]
 Notable People
 Secrets
-Guidance on Building a Terris Hero
+Guidance on Building a Skaa Hero
