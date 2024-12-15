@@ -38,19 +38,19 @@ Poisons are measured in single doses
 | Signal animal  | Trained animal such as a bird used to carry messages to one location      | 3          | 1     |
 # Tools
 
-| Item                    | Props | Difficulty | Description                                                                                                                        |
-| ----------------------- | ----- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Abacus                  | 1     | 2          | Simple calculation device favored by merchants and tradesmen                                                                       |
-| Cloak                   | 1     | 1          | Simple poncho or hood used to protect oneself from the elements and detection                                                      |
-| Codebook                | 1     | 3          | A book of ciphers, used to encode and decode messages                                                                              |
-| Concealed safe          | 1     | 4          | Book, box, jug, or other object with a hidden compartment for concealing valuables and money. Wit - DC 3 roll required to be found |
-| Farmer's tools          | 1     | 1          | Simple wooden and iron tools for chiseling the hard earth                                                                          |
-| Fishing gear            | 1     | 1          | Pole, tackle, and nets used for fishing in lakes and rivers                                                                        |
-| Forged noble papers     | 1     | 3          | Identification papers to appear as a noble, along with a proper disguise                                                           |
-| Forged Obligator papers | 1     | 4          | Identification papers to appear as an Obligator, along with a proper disguise and tattoos                                          |
-| Hunter's traps          | 1     | 2          | Snares and other traps useful for catching small game                                                                              |
-| Lockpicks               | 1     | 2          | Useful for picking locks                                                                                                           |
-| Medicinal herbs         | 1     | 2          | Simple poultices and other folk cures used for treating injury                                                                     |
-| Pipeweed                | 1     | 2          | Pouch of dried aromatic leaves and pipe, smoked when relaxing or socializing                                                       |
-| Salts                   | 1     | 3          | Sea salt used to help preserve food, helping it last longer                                                                        |
-| Survivorist Tract       | 2     | 3          | Holy "book" of the Survivorist faith, often heavily illustrated for the illiterate                                                 |
+| Item                    | Description                                                                                                                        | Difficulty | Props |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| Abacus                  | Simple calculation device favored by merchants and tradesmen                                                                       | 2          | 1     |
+| Cloak                   | Simple poncho or hood used to protect oneself from the elements and detection                                                      | 1          | 1     |
+| Codebook                | A book of ciphers, used to encode and decode messages                                                                              | 3          | 1     |
+| Concealed safe          | Book, box, jug, or other object with a hidden compartment for concealing valuables and money. Wit - DC 3 roll required to be found | 4          | 1     |
+| Farmer's tools          | Simple wooden and iron tools for chiseling the hard earth                                                                          | 1          | 1     |
+| Fishing gear            | Pole, tackle, and nets used for fishing in lakes and rivers                                                                        | 1          | 1     |
+| Forged noble papers     | Identification papers to appear as a noble, along with a proper disguise                                                           | 3          | 1     |
+| Forged Obligator papers | Identification papers to appear as an Obligator, along with a proper disguise and tattoos                                          | 4          | 1     |
+| Hunter's traps          | Snares and other traps useful for catching small game                                                                              | 2          | 1     |
+| Lockpicks               | Useful for picking locks                                                                                                           | 2          | 1     |
+| Medicinal herbs         | Simple poultices and other folk cures used for treating injury                                                                     | 2          | 1     |
+| Pipeweed                | Pouch of dried aromatic leaves and pipe, smoked when relaxing or socializing                                                       | 2          | 1     |
+| Salts                   | Sea salt used to help preserve food, helping it last longer                                                                        | 3          | 1     |
+| Survivorist Tract       | Holy "book" of the Survivorist faith, often heavily illustrated for the illiterate                                                 | 3          | 2     |
