@@ -10,7 +10,7 @@ Types of Skaa - Various different backgrounds have been added for skaa character
 [[Equipment#Poisons|Poisons]] - Fast acting poisons that inflict serious burdens instantly
 # Extra Content
 **Editor's Note**: Primarily, I am focused on the new mechanics added for each book before I come back and add the added content below
-Equipment
+[[Equipment]]
 Notable People
 Secrets
 Guidance on Building a Terris Hero
