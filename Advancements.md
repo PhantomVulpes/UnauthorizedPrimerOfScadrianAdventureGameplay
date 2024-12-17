@@ -7,9 +7,9 @@ Advancements are awarded to a character by the GM for various reasons
 - Making a critical choice
 - Revealing a significant secret
 - Defeating a foreboding villain
-- Fulfilling a character's [[The Character Sheet#Destiny|Destiny]]
+- Fulfilling a character's [[Character Sheet Definitions#Destiny|Destiny]]
     - Upon reaching their Destiny, a character may take on a new one to work toward
-- Overcoming a character's [[The Character Sheet#Tragedy|Tragedy]]
+- Overcoming a character's [[Character Sheet Definitions#Tragedy|Tragedy]]
     - Similar to Destiny, except, instead of lying in the future, it lies in the past. A character may experience a new Tragedy to overcome
 - Grappling with a character's [[Burdens]]
 - Achievements vital to the crew's survival

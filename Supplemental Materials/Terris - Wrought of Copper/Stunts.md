@@ -13,7 +13,7 @@ This Stunt is only used as a [[Conflicts#Reactions|Reaction]] during combat when
 - You are attacked by a character you have not attacked
 - You are unarmed
 - You are not using any powers
-Add dice equal to your [[The Character Sheet#Spirit|Spirit]] to your Reaction roll
+Add dice equal to your [[Character Sheet Definitions#Spirit|Spirit]] to your Reaction roll
 On success
 - The attacker stays their hand at the last moment, cancelling their attack and effectively wasting those dice
 - You may spend 3 [[Nudges]] to prevent the attacker from attacking you again during this Conflict
@@ -30,7 +30,7 @@ You gain 2 additional dice on all Charm and Influence rolls when dealing with me
 # Will to Survive - Terris only
 Your people survived the worst the Lord Ruler could muster
 Once per session, when you are [[Damage#Defeat|Defeated]] in [[Conflicts|Conflict]], you may call upon your will to carry you through
-Roll your current [[The Character Sheet#Spirit|Spirit]]
+Roll your current [[Character Sheet Definitions#Spirit|Spirit]]
 - If your result is greater than or equal to the attacker's result
     - You remain Defeated, but you choose how you are Defeated and what [[Burdens]] you suffer as a result
     - You may spend 3 [[Nudges]] to reduce all Burdens suffered with this defeat by 1 level

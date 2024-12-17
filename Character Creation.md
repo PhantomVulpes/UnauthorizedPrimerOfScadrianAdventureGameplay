@@ -29,7 +29,7 @@ Examples for concepts:
 Write this on your character sheet under "Concept"
 **Editor's Note**: If it helps, think of this as sort of a class for your character.
 # Answer These 10 Questions
-Many answers to these questions will all become [[The Character Sheet#Traits|Traits]]. Be sure to understand what Traits cannot be as well as what they can be.
+Many answers to these questions will all become [[Character Sheet Definitions#Traits|Traits]]. Be sure to understand what Traits cannot be as well as what they can be.
 **Editor's Note**: Some of these questions refer to the crew and having already joined, but again your players may not have been in the position to have joined the crew before the game started. Really, this is my only criticism of character-creation. I have used these 10 questions in other game systems to help players build more interesting characters.
 ## 1. Why did you join the crew?
 What is your main goal that you are trying to accomplish? These are not necessarily known to all characters
@@ -109,7 +109,7 @@ One Hemalurgic blessing from the following options:
 - Presence
 - Stability
 See [[Metals]] for information on various metals and their Hemalurgic blessing abilities
-### 7. How are your [[The Character Sheet#Attributes|attributes]]? Are you especially fit, smart, or charismatic?
+### 7. How are your [[Character Sheet Definitions#Attributes|attributes]]? Are you especially fit, smart, or charismatic?
 This is for your Physique, Charm, and Wits
 Each level has an amount of points you can spend between all Attributes
 Each level has a max amount a stat can be
@@ -123,7 +123,7 @@ Each stat must have at least 2
 **Strong**
 - 13 points
 - Max of 8
-### 8. How is your [[The Character Sheet#Standings|standing]]? Are you well-off or do you struggle to get by?
+### 8. How is your [[Character Sheet Definitions#Standings|standing]]? Are you well-off or do you struggle to get by?
 This is for your Resources, Influence, and Spirit
 Each level has an amount of points you can spend between all Attributes
 Each level has a max amount a stat can be
@@ -276,7 +276,7 @@ Both sexes follow the same name pattern
 **Editor's Note**: Look man, I didn't make the names that break the convention the book established, I just copied and pasted
 ## Choose your Props
 Choose a number of props equal to your Resources stat
-![[The Character Sheet#Props|Props]]
+![[Character Sheet Definitions#Props|Props]]
 ## Develop a Backstory (Optional)
 Define why you made the choices you made
 How did your character's Drive, Tragedy, or Destiny lead them to the crew?

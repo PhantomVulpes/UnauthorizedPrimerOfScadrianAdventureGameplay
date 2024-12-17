@@ -8,7 +8,7 @@ Players in a crew do not need to be aligned with the same Network
 Gained by spending [[Advancements]]
 Networks can only be used when the player calling on their Network is in good standing and following the Network's rules
 - If the rules are broken, the benefits of that Network are lost until the next [[Time During the Game#Long Breathers|Long Breather]], in which they are repairing their relationships
-Joining a Network provides a [[The Character Sheet#Traits|Trait]] and an added benefit
+Joining a Network provides a [[Character Sheet Definitions#Traits|Trait]] and an added benefit
 # Available Networks
 ## Synod Inner Circle - Terris only
 ### Rules
