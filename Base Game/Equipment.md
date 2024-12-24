@@ -4,15 +4,6 @@ Page 234
 Buying items is a Resources [[Rolling the Dice#Challenges|Challenge]] and works like rolling [[Standing|Standings]]
 - The CR of this roll is the Difficulty column
 A [[Nudges|Nudge]] may be used to acquire an addition copy of the item purchased
-# Metalminds
-The maximum number of charges a metalmind can store is determined by the size of the object
-
-| Capacity | Examples of Size                                                             |
-| -------- | ---------------------------------------------------------------------------- |
-| 25       | Small / a few grams, a metal nugget, a nail, a ring                          |
-| 100      | Average / an ounce, a bracelet, a set of rings, a necklace                   |
-| 200      | Large / several pounds, a two-handed weapon, a coal stove, a wagon wheel     |
-| 500      | Huge / hundreds of pounds, a copper spire, wrought iron door, a metal pillar |
 # Props
 Items with a value in the **Props** column indicate they can be purchased as props during [[Character Creation#Choose your The Character Sheet Props Props|Character Creation]]. The value is how many **Resources** it costs to take it as a prop.
 Metalmind props are typically Average size
