@@ -4,12 +4,12 @@ Similar to the base game, the primer is being written as if you already know the
 The module will also be included as campaign details
 - **Editor's Note**: This is going to be a lot of work, so assume I haven't started yet as what is below takes priority.
 # New Mechanics
-[[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Networks|Networks]] - A group that a player may align themselves with to gain a Trait and a Benefit they can call on
-[[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Stunts|Stunts]] - Previously, Stunts were only available to Kandra and Allomancers. Each supplement adds more Stunts that other characters can have as well
-[[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Equipment#Metalminds|Metalminds]] - The options for metalminds has been expanded
+[[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Networks|Networks]] - A group that a player may align themselves with to gain a Trait and a Benefit they can call on
+[[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Stunts|Stunts]] - Previously, Stunts were only available to Kandra and Allomancers. Each supplement adds more Stunts that other characters can have as well
+[[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Equipment#Metalminds|Metalminds]] - The options for metalminds has been expanded
 # Extra Content
 **Editor's Note**: Primarily, I am focused on the new mechanics added for each book before I come back and add the added content below
-[[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Equipment|Equipment]]
+[[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Equipment|Equipment]]
 Notable People
 Secrets
 Guidance on Building a Terris Hero

@@ -26,7 +26,7 @@ All metalminds are normally a selection between Brass, Bronze, Copper, Iron, Pew
 ### Double Metalmind
 This practice uses extremely pure metals double-braided to forge a vast reserve out of a small amount of metal
 Potential reserve of the metalmind is considered one size greater
-- Rings store 100 instead of 25 as is defined in [[Mistborn Campaign Notes/Rules/Equipment#Metalminds|Base Game Equipment]]
+- Rings store 100 instead of 25 as is defined in [[Mistborn Campaign Notes/Rules/Base Game/Equipment#Metalminds|Base Game Equipment]]
 ### Metalmind Clothing
 Clothing or shoes woven with metalic thread
 Typically reserved for formal clothing such as a steward's robes

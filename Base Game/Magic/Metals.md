@@ -96,7 +96,7 @@ Feruchemists who tap huge amounts of strength can lift amazing amounts of weight
 ## Hemalurgy
 ### Spike
 Costs 2 x the Feruchemy rating gained in [[Advancements]]
-Depending on where a Pewter spike is driven in, it steals, stores, and transfers a single Feruchemical Power derived from any one of the four Physical Metals (e.g. the ability to store or tap physical strength, senses, speed, or weight). Each spike may store only one Power. Pewter Spikes: A Pewter spike grants you a single Feruchemical Power — Tin, Pewter, Iron, or Steel — with a rating equal to that of the spike. Each spike reduces your Spirit score by 1, as normal.
+Depending on where a Pewter spike is driven in, it steals, stores, and transfers a single Feruchemical Power derived from any one of the four Physical Metals. A Pewter spike grants you a single Feruchemical Power — Tin, Pewter, Iron, or Steel — with a rating equal to that of the spike. Each spike reduces your Spirit score by 1, as normal.
 # Iron
 Iron is one of the most common and easily acquired metals in the Final Empire. In all three traditions it grants powers related to weight — by Pulling metal, controlling one’s own weight, or stealing muscle mass.
 ## Allomancy

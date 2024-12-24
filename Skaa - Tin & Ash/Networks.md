@@ -1,4 +1,4 @@
-![[Mistborn Campaign Notes/Rules/Supplemental Materials/Terris - Wrought of Copper/Networks#Basic Rules]]
+![[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Networks#Basic Rules]]
 # Available Networks
 ## Black Hill Skaa - Skaa only
 While the nobles technically own the plantation, the skaa hold the real power. They aren't too friendly to outsiders, but if you can prove yourself to them, they might offer you a safehouse - a much nicer one than most plantations
