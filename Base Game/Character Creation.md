@@ -90,14 +90,14 @@ See [[Rolling the Dice#Dice Pools|Rolling the Dice]] for how these stats are use
 You may want to play the most powerful magic users in the game, but there are costs to such powers. A Mistborn is versatile, but will have a harder time being as powerful as a Misting. Those with no powers have had a life of struggle to get where they are today. Powers are not everything.
 These powers can influence your race
 You have **weak** powers if you are a mortal with no powers. You gain two additional Traits.
-You have **average** powers if you are a **Misting** with only one Allomantic power or you are a shape-shifting **kandra** with **mimicry**.
-You have **strong** powers if you are a **Mistborn** with all Allomantic powers or you are a **Keeper/Feruchemist** with Feruchemical powers.
+You have **average** powers if you are a **Misting** with only one [[Allomancy|Allomantic]] power or you are a shape-shifting **kandra** with **mimicry**.
+You have **strong** powers if you are a **Mistborn** with all [[Allomancy|Allomantic]] powers or you are a **Feruchemist** with [[Feruchemy|Feruchemical]] powers.
 #### Misting
 Use of any single Allomantic [[Metals|metal]] of your choice, provided the context of your game's world
 One Stunt of your choice with that metal
 #### Mistborn
 Allomancy rating of 4 in all metals
-#### Keeper/Feruchemist
+#### Feruchemist
 Feruchemy rating of 3 in all metals
 May use all Feruchemical metalminds
 **Note**: A Keeper is a particular group, dedicated to preserving the art. All Keepers are Feruchemists but not all Feruchemists are Keepers
