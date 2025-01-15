@@ -1,8 +1,8 @@
 _Terris: Wrought of Copper_ is a world resource, rule supplement, and module for the base adventure game.
 # In the primer
-Similar to the base game, the primer is being written as if you already know the world's lore. Rules and information will be added as it pertains to playing a game within the world of Mistborn Era 1. It will fully assume you know anything and everything lore wise and will only explain to you what they are if it matters to rules and mechanics. If something looks unfamiliar to you, then it is up to you to look it up. As much as I'd like to add the lore that's filled in with the book, I'm not going to just make a second [Coppermind wiki](https://coppermind.net/wiki/Coppermind:Welcome).
-The module will also be included as campaign details
-- **Editor's Note**: This is going to be a lot of work, so assume I haven't started yet as what is below takes priority.
+I will not be including any of the new lore explored in the world guide. The [Coppermind](https://coppermind.net/wiki/Coppermind:Welcome) should have everything you need for lore. If you see any groups or locations or names you're unfamiliar with when reading the primer, then go there to find information. The primer is not a second wiki, it is exclusively for the tabletop RPG.
+All new mechanics and rules will be included here rather than in the base game. There is some information that may end up in the main primer, but that is exclusively for convenience such as with [[Advancements]]. This is so players and GMs will be able to introduce these rules as they see fit for their games, getting the vanilla experience if they want or expanding into one or more world supplements.
+The modules will also be included, though they may take longer to add to the primer as they are not always the highest priority.
 # New Mechanics
 [[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Networks|Networks]] - A group that a player may align themselves with to gain a Trait and a Benefit they can call on
 [[Mistborn Campaign Notes/Rules/Terris - Wrought of Copper/Stunts|Stunts]] - Previously, Stunts were only available to Kandra and Allomancers. Each supplement adds more Stunts that other characters can have as well
